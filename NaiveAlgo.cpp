@@ -36,3 +36,14 @@ int main()
 // Pattern found at index 0
 // Pattern found at index 9
 // Pattern found at index 12
+
+
+// Talking about the time complexity
+
+// Best Case -
+// When the first character of pattern is not present in the text; - O(N)
+
+// Worst Case -
+// 1 - when all character of string and pattern are same
+// 2- when only the last character is diffeerent
+// O(m*(n-m+1))
