@@ -1,4 +1,5 @@
-// Slide the pattern over text one by one and check for a match. If a match is found, then slides by 1 again to check for subsequent matches. 
+// Slide the pattern over text one by one and check for a match. If a match is found, then slides by 1 again to check for subsequent matches.
+// this is the naive approach 
 
 #include <bits/stdc++.h>
 using namespace std;
